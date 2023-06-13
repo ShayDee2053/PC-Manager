@@ -4,6 +4,7 @@ import tkinter
 from tkinter import *
 
 
+# App for managing your PC
 class App(customtkinter.CTk):
 
     def __init__(self):
